@@ -1,0 +1,25 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake Game
+        uses: Platane/snk@master
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          gif_out_path: dist/github-contribution-grid-snake.gif
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake-game
+          path: dist/github-contribution-grid-snake.gif
