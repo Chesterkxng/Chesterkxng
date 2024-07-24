@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src=output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="output/github-user-contribution.svg">
+  <source media="(prefers-color-scheme: light)" srcset="output/github-user-contribution.svg">
+  <img alt="github contribution grid snake animation" src=output/github-user-contribution.svg">
 </picture>
