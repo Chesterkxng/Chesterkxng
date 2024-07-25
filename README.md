@@ -101,6 +101,25 @@
 <a href="https://github.com/Chesterkxng?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Chesterkxng&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="Chester King github-readme-streak-stats"/></a>
 </p>
 
+## Contact Me
+
+Feel free to reach out to me through any of the following platforms:
+
+<div align="center">
+  <a href="https://github.com/Chesterkxng" target="_blank" style="text-decoration: none; color: #333;">
+    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:cgoita00@gmail.com" target="_blank" style="text-decoration: none; color: #333;">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://discord.com/users/chesterkxng" target="_blank" style="text-decoration: none; color: #333;">
+    <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.linkedin.com/in/goïta-cheick" target="_blank" style="text-decoration: none; color: #333;">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
 
 ## GitHub Contribution Snake
 
