@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Cover Image](assets/cover.png)
+
 ## TECHSTACK
 
 <table>
