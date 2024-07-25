@@ -77,8 +77,14 @@
 </div>
 </table>
 
+## STATS 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chesterkxng&theme=gotham&layout=compact"width="40%"/> 
+</p>
+
+<p align="center">
+<a href="https://github.com/Chesterkxng?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Chesterkxng&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@jrohitofficial's github-readme-stats"/></a>
+<a href="https://github.com/Chesterkxng?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Chesterkxng&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="Chester King github-readme-streak-stats"/></a>
 </p>
 
 
