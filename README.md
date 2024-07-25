@@ -29,7 +29,7 @@ Here are some ideas to get you started:
         <br>JavaScript
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40" />
         <br>C
       </td>
       <td align="center" width="96">
