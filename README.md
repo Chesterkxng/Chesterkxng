@@ -86,10 +86,6 @@
         <img src="https://skillicons.dev/icons?i=flask" width="40" height="40" alt="Flask" />
         <br>Flask
       </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nosql" width="40" height="40" alt="NoSQL" />
-        <br>NoSQL
-      </td>
     </tr>
 </table>
 </div>
