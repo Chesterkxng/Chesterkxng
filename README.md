@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
-  <table>
+<table>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
     <tr>
       <td align="center" width="96">
         <a href="https://www.python.org/">
@@ -71,8 +72,9 @@
         <br>PostgreSQL
       </td>
     </tr>
-  </table>
+</table>
 </div>
+</table>
 
 
 
