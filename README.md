@@ -115,7 +115,7 @@ Feel free to reach out to me through any of the following platforms:
   <a href="https://discord.com/users/chesterkxng" target="_blank" style="text-decoration: none; color: #333;">
     <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://www.linkedin.com/in/goïta-cheick" target="_blank" style="text-decoration: none; color: #333;">
+  <a href="https://www.linkedin.com/in/cheick-goïta" target="_blank" style="text-decoration: none; color: #333;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
