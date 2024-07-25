@@ -73,6 +73,15 @@
         <br>PostgreSQL
       </td>
     </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
+        <br>Linux
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=windows" width="40" height="40" alt="Windows" />
+        <br>Windows
+      </td>
 </table>
 </div>
 </table>
