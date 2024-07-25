@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<p align="center"> TECHSTACK </p>
+## TECHSTACK
+
 <table>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -77,7 +78,7 @@
 </table>
 
 
-
+## GitHub Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chesterkxng/Chesterkxng/output/github-contribution-grid-snake-dark.svg">
