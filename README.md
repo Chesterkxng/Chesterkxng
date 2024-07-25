@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+<p align="center"> TECHSTACK </p>
 <table>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
